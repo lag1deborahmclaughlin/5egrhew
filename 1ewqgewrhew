@@ -1,0 +1,7 @@
+echo "# 5egrhew" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lag1deborahmclaughlin/5egrhew.git
+git push -u origin main
